@@ -13,7 +13,7 @@ class dow_op_cloud:
         self.url = 'https://cloud.h2os.com/gallery/pc/listNormalPhotos'
         self.real_url = 'https://cloud.h2os.com/gallery/pc/getRealPhotoUrls'
         self.cookies = {
-            "删除我，粘贴刚刚复制的代码双引号也要删除"
+            "你自己的一加云服务的cookies"
 
         }
 
